@@ -1,0 +1,32 @@
+body {
+    font-family: Arial;
+    background-color: lightcyan;
+    text-align: center;
+    align-items: center;
+}
+#clickButton {
+    height: 100px;
+    width: 100%;
+    font-weight: 600;
+    font-size: 1.2em;
+    background-color: lightcoral;
+    border: solid black 4px;
+}
+
+.container {
+    display: flex;
+}
+
+.box {
+    flex: 1;
+}
+
+.btnU {
+    height: 80px;
+    width: 200px;
+    background-color: red;
+    font-weight: 900;
+    border-radius: 20%;
+}
+
+
